@@ -1,5 +1,65 @@
-"A cultura alimenta a quebrada."
+<div align="center">
+<img width="30%" alt="Image" src="https://github.com/user-attachments/assets/409e1c59-15e1-462e-9587-7ebf7514d87f" />
+  
+  <br />
+  <br />
 
-Descubra eventos, lugares, experiências e a cultura que movimenta São Paulo.
+  <h1>GiroSP</h1>
+  
+  <p align="center">
+    <strong>"A cultura alimenta a quebrada."</strong>
+  </p>
+  
+  <p align="center">
+    Descubra eventos, lugares, experiências e a cultura que movimenta São Paulo.
+  </p>
 
-React Native JavaScript Mobile Status
+  <p align="center">
+    <img src="https://img.shields.io/badge/React_Native-0A0A0A?style=for-the-badge&logo=react&logoColor=FF2A2A" alt="React Native" />
+    <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=FF2A2A" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Mobile-FF2A2A?style=for-the-badge&logo=ionic&logoColor=FFFFFF" alt="Mobile" />
+    <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-1A1A1A?style=for-the-badge&logo=git&logoColor=FF2A2A" alt="Status" />
+  </p>
+</div>
+
+<br />
+
+---
+
+## 🔥 Sobre o Projeto
+
+O **GiroSP** é um aplicativo mobile focado em conectar pessoas à essência cultural, artística e urbana da cidade de São Paulo. A plataforma foi idealizada para aproximar o público de experiências autênticas, valorizando a produção local e a cena independente.
+
+Através do aplicativo, os usuários podem explorar com facilidade:
+- Eventos e shows
+- Festas e exibições artísticas
+- Cultura urbana e arte de rua
+- Gastronomia e pontos de encontro
+- Lugares e experiências imersivas na metrópole
+
+O projeto une tecnologia e a identidade da cultura de rua para transformar a forma como as pessoas vivenciam a cidade.
+
+---
+
+## ✨ Por que GiroSP?
+
+- 📍 **Descoberta:** Encontre experiências marcantes e movimentadas acontecendo por todas as quebradas e regiões da cidade.
+- 🎨 **Cultura:** Valorize artistas, produtores independentes, espaços alternativos e iniciativas culturais locais.
+- 🔥 **Experiência:** Tenha uma interface ágil, moderna e imersiva para planejar o seu roteiro.
+- 🤝 **Comunidade:** Conecte-se diretamente com movimentos, projetos e redes de colaboração urbana.
+- 🌆 **São Paulo:** Uma plataforma desenhada sob medida para a diversidade, ritmo e dinamismo da capital paulista.
+
+## 🚀 Funcionalidades
+
+- [ ] Tela de login
+- [ ] Cadastro de usuário
+- [ ] Login com Google
+- [ ] Login com Apple
+- [ ] Explorar eventos
+- [ ] Busca inteligente
+- [ ] Categorias culturais
+- [ ] Favoritos
+- [ ] Perfil do usuário
+- [ ] Notificações
+- [ ] Localização integrada
+- [ ] Compartilhamento de eventos
